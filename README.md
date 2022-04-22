@@ -1,5 +1,10 @@
 # Search names app
 
+## Requirements
+
+-   PHP 8.0+
+-   MySQL 5.7+
+
 ## Set up
 
 -   Clone the repository `git clone https://github.com/MichaelT372/search-names-app.git`
